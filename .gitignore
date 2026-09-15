@@ -1,0 +1,7 @@
+# previews & temp
+_now_*.png
+.trash/
+*.log
+.DS_Store
+node_modules/
+.vercel/
